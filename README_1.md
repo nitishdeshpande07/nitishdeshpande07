@@ -24,7 +24,7 @@
 
 ## 🧭 About Me
 
-I'm a cybersecurity engineer from Pune, India, currently working as a **Security Solutions Analyst** at Qualys, where I architect end‑to‑end security solutions spanning CNAPP, Kubernetes Security, EDR, TotalAppSec, ETM Cyber Risk Management, and more. I hold an Integrated BTech‑MTech in Cybersecurity from the National Forensic Sciences University, and I spend most of my time at the intersection of SecOps(MDR), cloud, container, and industrial security — building detection pipelines, breaking test environments on purpose, and figuring out how to explain & solution all of it simply to the businesses that need it. Beyond the technical side, I genuinely **love the business of cybersecurity** — turning security decisions into something founders and leadership can actually reason about in terms of risk, cost, and growth.
+I'm a cybersecurity engineer from Pune, India, currently working as a **Security Solutions Engineer** at Qualys, where I architect end‑to‑end security solutions spanning CNAPP, Kubernetes Security, EDR, TotalAppSec, ETM Cyber Risk Management, and more. I hold an Integrated BTech‑MTech in Cybersecurity from the National Forensic Sciences University, and I spend most of my time at the intersection of SecOps(MDR), cloud, container, and industrial security — building detection pipelines, breaking test environments on purpose, and figuring out how to explain & solution all of it simply to the businesses that need it. Beyond the technical side, I genuinely **love the business of cybersecurity** — turning security decisions into something founders and leadership can actually reason about in terms of risk, cost, and growth.
 
 <br/>
 
@@ -32,7 +32,7 @@ I'm a cybersecurity engineer from Pune, India, currently working as a **Security
 
 | Role | Organization | Duration | Focus |
 |---|---|---|---|
-| **Security Solutions Analyst** — Qualys Architecture Center | Qualys Inc. | Mar '26 – Present | CNAPP, K8s Security, EDR, TotalAppSec, ETM Cyber Risk Management — solution architecture & technical win execution |
+| **Security Solutions Engineer** — Qualys Architecture Center | Qualys Inc. | Mar '26 – Present | CNAPP, K8s Security, EDR, TotalAppSec, ETM Cyber Risk Management — solution architecture & technical win execution |
 | **Intern, XShield Product Team** | Colortokens Inc. | Nov '25 – Feb '26 | Network VAPT, micro‑segmentation detection use‑cases, east‑west attack path validation |
 | **Cybersecurity Intern** — CoE Central Cyber Team | Adani Group | May – Jul '25 | LoLBAS red teaming & hunting, OT‑SOC syslog integration, IT‑OT secure network design |
 | **Cybersecurity Intern (GRC)** | Indian Institute of Management Bangalore | Jan – Mar '24 | Re‑versioned institutional policies from ISO 27001:2013 → 2022 aligned with CERT‑IN |
