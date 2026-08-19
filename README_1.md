@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=2500&pause=100000&color=2C9AF7&center=true&vCenter=true&width=700&lines=NITISH+DESHPANDE&repeat=false" alt="Nitish Deshpande" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3500&pause=100000&color=F2F2F2&center=true&vCenter=true&width=920&lines=Passionate+About+Simplifying+Enterprise+Security+for+Businesses&repeat=false" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3500&pause=100000&color=000000&center=true&vCenter=true&width=920&lines=Passionate+About+Simplifying+Enterprise+Security+for+Businesses&repeat=false" alt="Tagline" />
 
 <br/>
 
