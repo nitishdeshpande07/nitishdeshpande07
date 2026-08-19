@@ -10,8 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=15&pause=1000&color=8A8A8A&center=true&vCenter=true&width=650&lines=Security+Solutions+Analyst+%40+Qualys;Cloud+Security+%7C+Kubernetes+Security+%7C+OT%2FICS+Security;Building+Detection+Engineering+Pipelines" alt="Roles" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=15&pause=1000&color=8A8A8A&center=true&vCenter=true&width=650&lines=Security+Solutions+Engineer+%40+Qualys;Cloud+Security+%7C+Kubernetes+Security+%7C+OT%2FICS+Security+%7C+SecOps+%28MDR%29;Building+Detection+Engineering+Pipelines" alt="Roles" />
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/Email-nitishdeshpande07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishdeshpande07@gmail.com)
